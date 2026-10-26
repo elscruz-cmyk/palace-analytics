@@ -1,0 +1,37 @@
+propiedad,hostname,mes,ga4_looker_total_users,bigquery_total_users,pings_session_start_sin_id_bq,factor_ga4_sobre_bq,ga4_sobre_bq_pct,bq_debajo_de_ga4_pct,pings_sobre_users_bq_pct
+Beach Palace,beach.palaceresorts.com,2026-01,10145,9734,526,1.0422,4.22,4.05,5.4
+Beach Palace,beach.palaceresorts.com,2026-02,8562,7998,542,1.0705,7.05,6.59,6.78
+Beach Palace,beach.palaceresorts.com,2026-03,8964,8467,546,1.0587,5.87,5.54,6.45
+Beach Palace,beach.palaceresorts.com,2026-04,8400,7848,566,1.0703,7.03,6.57,7.21
+Beach Palace,beach.palaceresorts.com,2026-05,7675,7285,509,1.0535,5.35,5.08,6.99
+Beach Palace,beach.palaceresorts.com,2026-06,14894,13816,1175,1.078,7.8,7.24,8.5
+Beach Palace,beach.palaceresorts.com,2026-07,18051,16523,1619,1.0925,9.25,8.46,9.8
+Beach Palace,beach.palaceresorts.com,2026-08,14788,13737,1421,1.0765,7.65,7.11,10.34
+Beach Palace,beach.palaceresorts.com,2026-09,18970,17685,1575,1.0727,7.27,6.77,8.91
+Cozumel Palace,cozumel.palaceresorts.com,2026-01,27265,25541,2070,1.0675,6.75,6.32,8.1
+Cozumel Palace,cozumel.palaceresorts.com,2026-02,30079,27479,2932,1.0946,9.46,8.64,10.67
+Cozumel Palace,cozumel.palaceresorts.com,2026-03,45771,41364,4871,1.1065,10.65,9.63,11.78
+Cozumel Palace,cozumel.palaceresorts.com,2026-04,45654,41366,4402,1.1037,10.37,9.39,10.64
+Cozumel Palace,cozumel.palaceresorts.com,2026-05,20717,18858,1796,1.0986,9.86,8.97,9.52
+Cozumel Palace,cozumel.palaceresorts.com,2026-06,22671,20095,3571,1.1282,12.82,11.36,17.77
+Cozumel Palace,cozumel.palaceresorts.com,2026-07,18058,16653,1755,1.0844,8.44,7.78,10.54
+Cozumel Palace,cozumel.palaceresorts.com,2026-08,15064,14045,1342,1.0726,7.26,6.76,9.56
+Cozumel Palace,cozumel.palaceresorts.com,2026-09,13376,12280,1334,1.0893,8.93,8.19,10.86
+Sun Palace,sun.palaceresorts.com,2026-01,30556,28423,2046,1.075,7.5,6.98,7.2
+Sun Palace,sun.palaceresorts.com,2026-02,31647,29932,2424,1.0573,5.73,5.42,8.1
+Sun Palace,sun.palaceresorts.com,2026-03,39436,35508,4094,1.1106,11.06,9.96,11.53
+Sun Palace,sun.palaceresorts.com,2026-04,32835,30262,2939,1.085,8.5,7.84,9.71
+Sun Palace,sun.palaceresorts.com,2026-05,19866,18315,1692,1.0847,8.47,7.81,9.24
+Sun Palace,sun.palaceresorts.com,2026-06,19364,17624,1874,1.0987,9.87,8.99,10.63
+Sun Palace,sun.palaceresorts.com,2026-07,19953,18131,2205,1.1005,10.05,9.13,12.16
+Sun Palace,sun.palaceresorts.com,2026-08,16021,14900,1547,1.0752,7.52,7.0,10.38
+Sun Palace,sun.palaceresorts.com,2026-09,14656,13726,1415,1.0678,6.78,6.35,10.31
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-01,81434,77046,6618,1.057,5.7,5.39,8.59
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-02,82101,77524,6801,1.059,5.9,5.57,8.77
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-03,140999,132367,12379,1.0652,6.52,6.12,9.35
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-04,81350,76787,5920,1.0594,5.94,5.61,7.71
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-05,78349,74745,5376,1.0482,4.82,4.6,7.19
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-06,61979,58822,5027,1.0537,5.37,5.09,8.55
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-07,77349,69917,10391,1.1063,10.63,9.61,14.86
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-08,84865,77547,11344,1.0944,9.44,8.62,14.63
+Moon Palace Jamaica,jamaica.moonpalace.com,2026-09,61082,54969,8545,1.1112,11.12,10.01,15.55
